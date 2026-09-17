@@ -1,0 +1,8 @@
+[
+  {
+    "name": "saas_pricing",
+    "method": "POST",
+    "path": "/saas/pricing",
+    "description": "V1 Saas Pricing"
+  }
+]
