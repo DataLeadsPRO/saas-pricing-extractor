@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
-  "name": "io.github.dataleadspro/saas-pricing-extractor",
+  "name": "io.github.DataLeadsPRO/saas-pricing-extractor",
   "description": "Extract and structure pricing pages from any SaaS site: plans, tiers, and features.",
   "version": "1.0.0",
   "repository": {
