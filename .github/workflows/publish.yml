@@ -24,4 +24,4 @@ jobs:
       - uses: docker/build-push-action@v6
         with:
           push: true
-          tags: ghcr.io/dataleads/saas-pricing-extractor-mcp:latest
+          tags: ghcr.io/dataleadspro/saas-pricing-extractor-mcp:latest
